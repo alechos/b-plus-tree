@@ -117,7 +117,6 @@ Requires the `bf` library in `./lib/` and headers in `./include/`.
 ```bash
 make            # build + run tests and benchmarks
 make test       # run tests only
-make benchmark  # run benchmarks only
 make clean      # remove artifacts and database files
 ```
 
