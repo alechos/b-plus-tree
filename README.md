@@ -1,5 +1,4 @@
 
----
 
 # B+ Tree over a Block File Layer
 
